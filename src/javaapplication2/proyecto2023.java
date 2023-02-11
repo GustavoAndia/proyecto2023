@@ -10,7 +10,7 @@ import java.util.*;
  *
  * @author Gustavo
  */
-public class JavaApplication2 {
+public class proyecto2023 {
 
 
     
